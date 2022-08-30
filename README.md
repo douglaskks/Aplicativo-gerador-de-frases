@@ -1,16 +1,3 @@
-# projeto_app2
+# Projeto Aplicativo gerador de frases
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Um novo projeto para colocar os conhecimentos da linguagem Dart e do Framework Flutter em prática, mostrando assim um pouco do que o app pode fazer, o app, tem o intuito de quando o usuário clicar em um botão que o app disponibiliza, mudar de frases acima dele e cada vez que o usuário clicar é uma frases aleatória diferente
